@@ -1,0 +1,10 @@
+# Ignore python cache files
+**/__pycache__/
+
+# Ignore heavy dataset formats
+*.h5
+*.tar.gz
+*.npz
+
+# Ignore pretrained model weights
+*.pt
